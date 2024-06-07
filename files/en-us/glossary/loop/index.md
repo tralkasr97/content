@@ -1,4 +1,6 @@
----
+---https://github.com/mdn/content/commits/main/files/en-us/glossary/loop/index.md
+
+# مساهمي ويكي الأصليين
 title: Loop
 slug: Glossary/Loop
 page-type: glossary-definition
